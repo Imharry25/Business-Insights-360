@@ -16,10 +16,10 @@ Features
 - **Marketing View**: Gain insights into product and regional performance metrics.
 - **Supply Chain View**: Analyse forecast accuracy and net error metrics. 
 - **Executive View**: Get high-level insights with KPI cards and revenue breakdowns. 
--📌 Data Modeling Approach
-•	Defined relationships across 15 tables
-•	Implemented a Snowflake Schema for efficient data structuring
-•	Ensured proper table relationships for accurate and insightful analysis
+-📌 **Data Modeling Approach**
+-	Defined relationships across 15 tables
+-	Implemented a Snowflake Schema for efficient data structuring
+-	Ensured proper table relationships for accurate and insightful analysis
  
 📊 Dashboard Overview
 
