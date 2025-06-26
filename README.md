@@ -4,7 +4,7 @@ Welcome to Business Insights 360 - Your Gateway to Data-Driven Decision Making!
 AtliQ Hardware, a rapidly expanding computer hardware company, struggled with outdated Excel-based analytics while managing large datasets. To maintain a competitive edge, they needed advanced analytics for data-driven decision-making and efficient reporting.
 This project is a comprehensive Power BI dashboard developed to analyze and visualize key performance metrics across various departments at AtliQ Hardware. It provides actionable insights into finance, sales, marketing, supply chain, and executive operations, empowering stakeholders to make informed decisions for strategic growth.
 ________________________________________
-Live Dashboard 
+🌐 Live Dashboard
 👉 Click to explore the live dashboard 👉 Power BI
 
 <p align="center"> <a href="https://app.powerbi.com/groups/me/reports/055146f9-b9c1-40b0-aca0-6ea1d9aaf8ca/bbcf80d96f3d61e9ce33?experience=power-bi"> <img src="https://img.shields.io/badge/View%20Dashboard-Power%20BI-brightgreen?style=for-the-badge&logo=powerbi" alt="Power BI Dashboard"> </a> </p>
@@ -13,9 +13,9 @@ ________________________________________
 Features 
 - **Finance View:** Explore P&L statements, product analysis, and net sales trends.
 - **Sales View:** Dive into customer and product performance with dynamic charts and filters. 
-- **Marketing View: Gain insights into product and regional performance metrics.
-•	Supply Chain View: Analyse forecast accuracy and net error metrics. 
-•	Executive View: Get high-level insights with KPI cards and revenue breakdowns. 
+- **Marketing View**: Gain insights into product and regional performance metrics.
+- **Supply Chain View**: Analyse forecast accuracy and net error metrics. 
+- **Executive View**: Get high-level insights with KPI cards and revenue breakdowns. 
 📌 Data Modeling Approach
 •	Defined relationships across 15 tables
 •	Implemented a Snowflake Schema for efficient data structuring
