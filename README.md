@@ -21,22 +21,28 @@ Features
 📊 Dashboard Overview
 
 🏠 Home Page
- 
+ ![image](https://github.com/user-attachments/assets/7ee7aa4d-591e-479d-945a-ab185b38c050)
+
 
 💰 Finance View (Analysis of key financial metrics)
- 
+ ![image](https://github.com/user-attachments/assets/8916a8dc-60a6-4f04-884f-5887581ebd50)
+
 
 📈 Sales View (Performance insights across different sales channels)*
- 
+ ![image](https://github.com/user-attachments/assets/5abe2018-d913-4809-8bef-9802d183ed9e)
+
 
 📢 Marketing View (Insights into strategic marketing decisions)
- 
+ ![image](https://github.com/user-attachments/assets/d504d5c6-efdd-41ef-8f46-edf25956dca4)
+
 
 📦 Supply Chain View (Operations & supply chain optimization)
- 
+ ![image](https://github.com/user-attachments/assets/fb0b0fc2-ec82-4d9f-b8a2-dc547272e121)
+
 
 🎯 Executive View (Historical metrics tailored for executives)
- 
+ ![image](https://github.com/user-attachments/assets/34f78650-4617-45a1-8e6d-9439f92e41e6)
+
 
 📊 Key Performance Indicators (KPIs):
 •	Net Sales, Gross Margin %, Net Profit %
