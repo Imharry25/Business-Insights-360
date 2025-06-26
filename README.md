@@ -4,13 +4,13 @@ Welcome to Business Insights 360 - Your Gateway to Data-Driven Decision Making!
 AtliQ Hardware, a rapidly expanding computer hardware company, struggled with outdated Excel-based analytics while managing large datasets. To maintain a competitive edge, they needed advanced analytics for data-driven decision-making and efficient reporting.
 This project is a comprehensive Power BI dashboard developed to analyze and visualize key performance metrics across various departments at AtliQ Hardware. It provides actionable insights into finance, sales, marketing, supply chain, and executive operations, empowering stakeholders to make informed decisions for strategic growth.
 ________________________________________
-🌐 Live Dashboard
+🌐 **Live Dashboard**
 👉 Click to explore the live dashboard 👉 Power BI
 
 <p align="center"> <a href="https://app.powerbi.com/groups/me/reports/055146f9-b9c1-40b0-aca0-6ea1d9aaf8ca/bbcf80d96f3d61e9ce33?experience=power-bi"> <img src="https://img.shields.io/badge/View%20Dashboard-Power%20BI-brightgreen?style=for-the-badge&logo=powerbi" alt="Power BI Dashboard"> </a> </p>
 
 ________________________________________
-Features 
+**Features** 
 - **Finance View:** Explore P&L statements, product analysis, and net sales trends.
 - **Sales View:** Dive into customer and product performance with dynamic charts and filters. 
 - **Marketing View**: Gain insights into product and regional performance metrics.
@@ -22,40 +22,40 @@ Features
 -	Implemented a Snowflake Schema for efficient data structuring
 -	Ensured proper table relationships for accurate and insightful analysis
  
-📊 Dashboard Overview
+📊 **Dashboard Overview**
 
-🏠 Home Page
+🏠 **Home Page**
  ![image](https://github.com/user-attachments/assets/7ee7aa4d-591e-479d-945a-ab185b38c050)
 
 
-💰 Finance View (Analysis of key financial metrics)
+💰 **Finance View (Analysis of key financial metrics)**
  ![image](https://github.com/user-attachments/assets/8916a8dc-60a6-4f04-884f-5887581ebd50)
 
 
-📈 Sales View (Performance insights across different sales channels)*
+📈 **Sales View (Performance insights across different sales channels)**
  ![image](https://github.com/user-attachments/assets/5abe2018-d913-4809-8bef-9802d183ed9e)
 
 
-📢 Marketing View (Insights into strategic marketing decisions)
+📢 **Marketing View (Insights into strategic marketing decisions)**
  ![image](https://github.com/user-attachments/assets/d504d5c6-efdd-41ef-8f46-edf25956dca4)
 
 
-📦 Supply Chain View (Operations & supply chain optimization)
+📦 **Supply Chain View (Operations & supply chain optimization)**
  ![image](https://github.com/user-attachments/assets/fb0b0fc2-ec82-4d9f-b8a2-dc547272e121)
 
 
-🎯 Executive View (Historical metrics tailored for executives)
+🎯 **Executive View (Historical metrics tailored for executives)**
  ![image](https://github.com/user-attachments/assets/34f78650-4617-45a1-8e6d-9439f92e41e6)
 
 
-📊 Key Performance Indicators (KPIs):
-•	Net Sales, Gross Margin %, Net Profit %
-•	Forecast Accuracy %, Net Error, Absolute Error
-📌 Key Metrics:
-•	Profit & Loss Statement
-•	Inventory Risk Analysis
-•	Gross Margin & Gross Margin % Variance
-•	AtliQ’s Market Share & Revenue Contribution
+📊 **Key Performance Indicators (KPIs)**:
+-	Net Sales, Gross Margin %, Net Profit %
+-	Forecast Accuracy %, Net Error, Absolute Error
+-📌 **Key Metrics**:
+-	Profit & Loss Statement
+-	Inventory Risk Analysis
+-	Gross Margin & Gross Margin % Variance
+-	AtliQ’s Market Share & Revenue Contribution
 ________________________________________
 🔍 Business Insights
 Finance
