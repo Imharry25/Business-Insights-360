@@ -6,6 +6,11 @@ This project is a comprehensive Power BI dashboard developed to analyze and visu
 ________________________________________
 Live Dashboard 
 Explore the live dashboard here business_insights_360_new - Power BI
+<p align="center">
+  <a href="https://app.powerbi.com/groups/me/reports/055146f9-b9c1-40b0-aca0-6ea1d9aaf8ca/bbcf80d96f3d61e9ce33?experience=power-bi">
+    <img src="https://img.shields.io/badge/View%20Dashboard-Power%20BI-brightgreen?style=for-the-badge&logo=powerbi" alt="Power BI Dashboard">
+  </a>
+</p>
 ________________________________________
 Features 
 •	Finance View: Explore P&L statements, product analysis, and net sales trends.
