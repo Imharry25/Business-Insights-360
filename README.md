@@ -59,26 +59,26 @@ ________________________________________
 -	AtliQ’s Market Share & Revenue Contribution
 ________________________________________
 🔍 **Business Insights**
-Finance
+- **Finance**
 -	Net Sales grew exponentially, increasing 353.5% in FY 2022
 -	Expansion since 2021 resulted in a 14% loss
 -	Peak sales period is October - December every fiscal year
-Sales
+- **Sales**
 -	Amazon & AtliQ Exclusive are top customers, contributing $496.9M & $361.1M
 -	Best-selling product: AQ HOME All-in-1 Gen 2 ($213M Net Sales in FY 2022)
-Marketing
+- **Marketing**
 -	APAC region has the highest sales volume
 -	Spain is the most profitable market (7.7% Net Profit margin)
 -	Notebook segment & Business Laptop category lead in Net Sales
-Supply Chain
+-**Supply Chain**
 -	80% Forecast Accuracy, but stockouts & excess inventory impact profitability
-Executive Insights
+-**Executive Insights**
 -	Retailer Channel & PCs Division drive the highest revenue
 -	Top 5 customers contribute 38.7% revenue (Amazon leads with 13.6%)
 -	AtliQ’s Market Share increased to 5.9% in FY 2022
 -	North America contributes 26% of total revenue
 -	South Europe shows the highest market share growth (6.6%)
-Products
+-**Products**
 -	Top revenue markets: Australia, Canada, Italy, Spain, USA
 -	AQ 5000 Series Electron 8 5900X has the highest Gross Margin %
 ________________________________________
@@ -98,11 +98,13 @@ ________________________________________
 -	Color Blind Friendly Palette for inclusiveness
 🏆 **Conclusion**:
 The Business Insights 360 project delivers an intuitive, data-driven, user-friendly dashboard. It empowers AtliQ Hardware with strategic decision-making capabilities by providing deep insights into financial, sales, marketing, supply chain, product, and executive data.
-**Data Sources** 
+
+-**Data Sources** 
 The dashboard gathers data from two primary sources:
 1.	Excel/CSV Files: Targets and Market Share data, along with related information, are collected from Excel and CSV files. 
-2.	MySQL Database: Essential facts and dimensions for all departments are pulled from a MySQL database. 
--**Skills Learned**
+2.	MySQL Database: Essential facts and dimensions for all departments are pulled from a MySQL database.
+
+-**Skills Learned**:
 -	Power BI data modeling 
 -	DAX calculations 
 -	Compelling visualization techniques 
