@@ -97,7 +97,7 @@ ________________________________________
 -	Data Refresh & Last Loaded Time Indicators
 -	Color Blind Friendly Palette for inclusiveness
   
--🏆 **Conclusion**:
+🏆- **Conclusion:**
 The Business Insights 360 project delivers an intuitive, data-driven, user-friendly dashboard. It empowers AtliQ Hardware with strategic decision-making capabilities by providing deep insights into financial, sales, marketing, supply chain, product, and executive data.
 
 **Data Sources:** 
