@@ -58,8 +58,8 @@ ________________________________________
 -	Gross Margin & Gross Margin % Variance
 -	AtliQ’s Market Share & Revenue Contribution
 ________________________________________
-🔍 **Business Insights**
-- **Finance**
+🔍 **Business Insights**:
+ **Finance**
 -  Net Sales grew exponentially, increasing 353.5% in FY 2022
 -  Expansion since 2021 resulted in a 14% loss
 ⋅⋅⋅⋅*  Peak sales period is October - December every fiscal year
