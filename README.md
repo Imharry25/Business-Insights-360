@@ -64,32 +64,32 @@ ________________________________________
    -  Expansion since 2021 resulted in a 14% loss
    -  Peak sales period is October - December every fiscal year
 - **Sales**
-⋅⋅⋅⋅*  Amazon & AtliQ Exclusive are top customers, contributing $496.9M & $361.1M
-⋅⋅⋅⋅*  est-selling product: AQ HOME All-in-1 Gen 2 ($213M Net Sales in FY 2022)
+  -  Amazon & AtliQ Exclusive are top customers, contributing $496.9M & $361.1M
+  -  est-selling product: AQ HOME All-in-1 Gen 2 ($213M Net Sales in FY 2022)
 - **Marketing**
-⋅⋅⋅⋅*	APAC region has the highest sales volume
-⋅⋅⋅⋅*	Spain is the most profitable market (7.7% Net Profit margin)
-⋅⋅⋅⋅*	Notebook segment & Business Laptop category lead in Net Sales
+  -	APAC region has the highest sales volume
+  -	Spain is the most profitable market (7.7% Net Profit margin)
+  -	Notebook segment & Business Laptop category lead in Net Sales
 - **Supply Chain**
-⋅⋅⋅⋅*	80% Forecast Accuracy, but stockouts & excess inventory impact profitability
+  -	80% Forecast Accuracy, but stockouts & excess inventory impact profitability
 - **Executive Insights**
--	Retailer Channel & PCs Division drive the highest revenue
--	Top 5 customers contribute 38.7% revenue (Amazon leads with 13.6%)
--	AtliQ’s Market Share increased to 5.9% in FY 2022
--	North America contributes 26% of total revenue
--	South Europe shows the highest market share growth (6.6%)
+  -	Retailer Channel & PCs Division drive the highest revenue
+  -	Top 5 customers contribute 38.7% revenue (Amazon leads with 13.6%)
+  -	AtliQ’s Market Share increased to 5.9% in FY 2022
+  -	North America contributes 26% of total revenue
+  -	South Europe shows the highest market share growth (6.6%)
 - **Products**
--	Top revenue markets: Australia, Canada, Italy, Spain, USA
--	AQ 5000 Series Electron 8 5900X has the highest Gross Margin %
+  -	Top revenue markets: Australia, Canada, Italy, Spain, USA
+  -	AQ 5000 Series Electron 8 5900X has the highest Gross Margin %
 ________________________________________
--📌 **Recommendations**:
-- Optimize operational expenses to minimize losses during expansion
-- Leverage festive seasons with promotional campaigns to boost sales
-- Enhance discount strategies for better customer engagement
-- Expand customer base in South Korea (no new customers in the last 4 years)
-- Improve inventory management to reduce risks like stockouts & excess inventory
-- Conduct LATAM region consumer surveys for better market penetration
-- Involve cross-functional teams for improved demand forecasting
+-📌 **Recommendations:**
+     - Optimize operational expenses to minimize losses during expansion
+     - Leverage festive seasons with promotional campaigns to boost sales
+     - Enhance discount strategies for better customer engagement
+     - Expand customer base in South Korea (no new customers in the last 4 years)
+     - Improve inventory management to reduce risks like stockouts & excess inventory
+     - Conduct LATAM region consumer surveys for better market penetration
+     - Involve cross-functional teams for improved demand forecasting
 ________________________________________
 🎯 **Key Enhancements to the Dashboard**:
 -	Information Pop-ups for user guidance & support
