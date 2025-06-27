@@ -1,5 +1,4 @@
-# Business-Insights-360
-Business-Insights-360
+# **Business-Insights-360**
 Welcome to Business Insights 360 - Your Gateway to Data-Driven Decision Making!
 AtliQ Hardware, a rapidly expanding computer hardware company, struggled with outdated Excel-based analytics while managing large datasets. To maintain a competitive edge, they needed advanced analytics for data-driven decision-making and efficient reporting.
 This project is a comprehensive Power BI dashboard developed to analyze and visualize key performance metrics across various departments at AtliQ Hardware. It provides actionable insights into finance, sales, marketing, supply chain, and executive operations, empowering stakeholders to make informed decisions for strategic growth.
@@ -21,6 +20,9 @@ ________________________________________
 -	Defined relationships across 15 tables
 -	Implemented a Snowflake Schema for efficient data structuring
 -	Ensured proper table relationships for accurate and insightful analysis
+  
+  ![image](https://github.com/user-attachments/assets/8db0ebfd-bc8e-4492-9fef-49ddae2cc3f2)
+
  
 📊 **Dashboard Overview**
 
