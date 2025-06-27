@@ -52,7 +52,7 @@ ________________________________________
 -	Net Sales, Gross Margin %, Net Profit %
 -	Forecast Accuracy %, Net Error, Absolute Error
   
--📌 **Key Metrics**:
+📌 **Key Metrics**:
 -	Profit & Loss Statement
 -	Inventory Risk Analysis
 -	Gross Margin & Gross Margin % Variance
@@ -82,7 +82,7 @@ ________________________________________
   -	Top revenue markets: Australia, Canada, Italy, Spain, USA
   -	AQ 5000 Series Electron 8 5900X has the highest Gross Margin %
 ________________________________________
--📌 **Recommendations:**
+📌 **Recommendations:**
 - Optimize operational expenses to minimize losses during expansion
 - Leverage festive seasons with promotional campaigns to boost sales
 - Enhance discount strategies for better customer engagement
