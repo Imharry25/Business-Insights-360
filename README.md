@@ -83,15 +83,15 @@ ________________________________________
   -	AQ 5000 Series Electron 8 5900X has the highest Gross Margin %
 ________________________________________
 -📌 **Recommendations:**
-     - Optimize operational expenses to minimize losses during expansion
-     - Leverage festive seasons with promotional campaigns to boost sales
-     - Enhance discount strategies for better customer engagement
-     - Expand customer base in South Korea (no new customers in the last 4 years)
-     - Improve inventory management to reduce risks like stockouts & excess inventory
-     - Conduct LATAM region consumer surveys for better market penetration
-     - Involve cross-functional teams for improved demand forecasting
+- Optimize operational expenses to minimize losses during expansion
+- Leverage festive seasons with promotional campaigns to boost sales
+- Enhance discount strategies for better customer engagement
+- Expand customer base in South Korea (no new customers in the last 4 years)
+- mprove inventory management to reduce risks like stockouts & excess inventory
+- nduct LATAM region consumer surveys for better market penetration
+- Involve cross-functional teams for improved demand forecasting
 ________________________________________
-🎯 **Key Enhancements to the Dashboard**:
+🎯 **Key Enhancements to the Dashboard:**
 -	Information Pop-ups for user guidance & support
 -	Seamless Page Navigation with interactive buttons
 -	Data Refresh & Last Loaded Time Indicators
