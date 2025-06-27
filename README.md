@@ -58,11 +58,11 @@ ________________________________________
 -	Gross Margin & Gross Margin % Variance
 -	AtliQ’s Market Share & Revenue Contribution
 ________________________________________
-🔍 **Business Insights**:
+🔍 **Business Insights:**
  - **Finance**
--  Net Sales grew exponentially, increasing 353.5% in FY 2022
--  Expansion since 2021 resulted in a 14% loss
-⋅⋅⋅⋅*  Peak sales period is October - December every fiscal year
+   - Net Sales grew exponentially, increasing 353.5% in FY 2022
+   -  Expansion since 2021 resulted in a 14% loss
+   -  Peak sales period is October - December every fiscal year
 - **Sales**
 ⋅⋅⋅⋅*  Amazon & AtliQ Exclusive are top customers, contributing $496.9M & $361.1M
 ⋅⋅⋅⋅*  est-selling product: AQ HOME All-in-1 Gen 2 ($213M Net Sales in FY 2022)
